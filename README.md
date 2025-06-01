@@ -1,4 +1,4 @@
-# LLM Consensus Solution Generation System - Zero Cost Architecture
+# Consensus Solution Generation System - Zero Cost Architecture
 
 ```mermaid
 graph TD
